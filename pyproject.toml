@@ -1,0 +1,22 @@
+[project]
+name = "qcforp"
+version = "0.1.0"
+description = "Quantum Computing for Python"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastcore>=1.7.27",
+    "numpy>=2.0.2",
+]
+
+[project.optional-dependencies]
+dev = [
+    "ruff>=0.6.8",
+]
+
+[tool.ruff]
+line-length = 300
+
+[tool.ruff.lint]
+select = ["E", "F"]
+ignore = ["F401", "F403", "F405", "F811"]
