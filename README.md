@@ -1,7 +1,7 @@
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 [![uv](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json)](https://github.com/astral-sh/uv)
 
-# q2p
+# q4p
 Quantum Computing for Python
 
 NOTE: This repository is a work in progress. Course entries are gradually added, updated and announced.
