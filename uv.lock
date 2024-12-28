@@ -2,18 +2,6 @@ version = 1
 requires-python = ">=3.12"
 
 [[package]]
-name = "fastcore"
-version = "1.7.27"
-source = { registry = "https://pypi.org/simple" }
-dependencies = [
-    { name = "packaging" },
-]
-sdist = { url = "https://files.pythonhosted.org/packages/af/72/304f055b104c6a9948b3e62bd1908121e5540105293972d441b54b20e3f2/fastcore-1.7.27.tar.gz", hash = "sha256:531c1df430094667d385cbb5ec985b5db289647f6a004ff50134bb87b67d169e", size = 80305 }
-wheels = [
-    { url = "https://files.pythonhosted.org/packages/c4/32/9bfc9ec3478471340b82d1bf06992a8a16bbb3bfcf62217842d638948f98/fastcore-1.7.27-py3-none-any.whl", hash = "sha256:ac62143e1fd40fd501a6740b99ccdcfef58dd467d2cd33dca681dc4f500b1e63", size = 83969 },
-]
-
-[[package]]
 name = "numpy"
 version = "2.2.1"
 source = { registry = "https://pypi.org/simple" }
@@ -78,7 +66,6 @@ name = "qcforp"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
-    { name = "fastcore" },
     { name = "numpy" },
     { name = "plotly" },
 ]
@@ -90,7 +77,6 @@ dev = [
 
 [package.metadata]
 requires-dist = [
-    { name = "fastcore", specifier = ">=1.7.27" },
     { name = "numpy", specifier = ">=2.0.2" },
     { name = "plotly", specifier = ">=5.24.1" },
     { name = "ruff", marker = "extra == 'dev'", specifier = ">=0.6.8" },
