@@ -1,5 +1,5 @@
 [project]
-name = "qcforp"
+name = "q4p"
 version = "0.1.0"
 description = "Quantum Computing for Python"
 readme = "README.md"
@@ -16,6 +16,7 @@ dev = [
 
 [tool.ruff]
 line-length = 300
+exclude = ["nbs"]
 
 [tool.ruff.lint]
 ignore = ["E741", "F401", "F403", "F405", "F811"]
