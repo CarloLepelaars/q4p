@@ -20,5 +20,3 @@ exclude = ["nbs"]
 
 [tool.ruff.lint]
 ignore = ["E741", "F401", "F403", "F405", "F811"]
-
-[tool.ruff.format]
