@@ -30,13 +30,13 @@ Hope you are excited to learn more about quantum computing! The next notebook wi
 
 # Dependencies
 
-This notebook series involves very few dependencies, so they will generally be pip installed in the notebook. 
+This notebook series involves very few dependencies, so they will generally be pip installed in the notebook. This series is also offered as [Kaggle Notebooks](https://www.kaggle.com/search?q=q4p+-+in%3Anotebooks), which can be forked and explored out of the box.
 
-We provide a `pyproject.toml` in case you would like to pre-install the dependencies.
+We provide a `pyproject.toml` in case you would like to pre-install dependencies.
 
 ## With uv (recommended)
 
-To install dependencies for the `qcforp` notebooks with `uv`:
+To install dependencies for the `q4p` notebooks with `uv`:
 
 ```bash
 pip install uv
