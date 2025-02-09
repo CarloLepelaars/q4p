@@ -1,6 +1,6 @@
 # Contributing
 
-Thank you for considering to contribute to this project! Here we provide some general guidelines to streamline the contribution process. The goal of this library is to provide comprehensive education for quantum computing. It mainly targets Python programmers and provides them with an accessible way to learn quantum computing.
+Thank you for considering to contribute to `q4p`! Here we provide some general guidelines to streamline the contribution process. The goal of this library is to provide comprehensive education for quantum computing. It mainly targets Python programmers and provides them with an accessible way to learn quantum computing.
 
 ## Before you start
 
