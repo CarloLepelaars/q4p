@@ -8,6 +8,7 @@ dependencies = [
     "numpy>=2.0.2",
     "plotly>=5.24.1",
     "kaleido==0.2.1",
+    "skq>=0.1.5",
 ]
 
 [project.optional-dependencies]
