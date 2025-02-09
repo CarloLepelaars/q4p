@@ -35,8 +35,6 @@ This notebook series involves very few dependencies, so they will generally be p
 
 We provide a `pyproject.toml` in case you would like to pre-install dependencies.
 
-## With uv (recommended)
-
 To install dependencies for the `q4p` notebooks with `uv`:
 
 ```bash
@@ -45,3 +43,7 @@ uv sync
 ```
 
 You can now use `.venv` as a kernel in your Jupyter notebooks.
+
+## skq
+
+Some notebooks will make use of the [skq](https://github.com/CarloLepelaars/skq) library, a Python library made for exploring quantum computing and quantum information theory.
