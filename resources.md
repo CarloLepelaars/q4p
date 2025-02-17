@@ -64,6 +64,7 @@
 - [Imaginary numbers aren't imaginary](https://www.youtube.com/watch?v=pfIGMWxjFTQ)
 - [The Square Root of Negative One](https://www.youtube.com/watch?v=lFT2hwsCMls)
 - [Complex numbers aren't complex](https://www.youtube.com/watch?v=ho3UPqCnzLQ)
+- [The Mind-Blowing Math Behind Fourier Transform](https://www.youtube.com/watch?v=jemW4C_3_-M)
 
 -------------------------------
 
