@@ -33,6 +33,7 @@
 
 - [Introduction to Quantum information Science - Artur Ekert](https://www.youtube.com/@ArturEkert/playlists)
 - [Quantum Machine Learning MOOC - Peter Wittek](https://www.youtube.com/watch?v=QtWCmO_KIlg&list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg)
+- [Quantum Computing Course - Quantum Soar](https://www.youtube.com/watch?v=8J-H7gbDCos&list=PL4wzlfHhrqQzJfrxDv2nYmLwvDBZmPb9-&index=2)
 - [Quantum Paradoxes - Maria Violaris](https://www.youtube.com/watch?v=Pz829XZIxXg&list=PLOFEBzvs-VvoQP-EVyd5Di3UrPPc2YKIc&index=1)
 - [The History of Quantum Computing - Interviews](https://www.youtube.com/watch?v=6qD9XElTpCE&list=PLOFEBzvs-VvpNNq221OCZzCZjHadM2NHR&index=1)
 - [The Building Blocks of a Quantum Computer](https://www.youtube.com/watch?v=AqoKpUDchYo&list=PL5jmbd6SJYnPiYlM6pHAm2M3FL40D9otZ)
