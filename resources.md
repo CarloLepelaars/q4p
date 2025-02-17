@@ -49,7 +49,6 @@
 
 - [Logic Gate Rotate Qubits](https://www.youtube.com/watch?v=ZBaXPY_0TNI)
 - [How Quantum Entanglement Works](https://www.youtube.com/watch?v=nxIGNbcVKtA)
-- [The Square Root of Negative One](https://www.youtube.com/watch?v=lFT2hwsCMls)
 - [Quantum Instruction Set - Computerphile](https://www.youtube.com/watch?v=ZN0lhYU1f5Q)
 - [What is Quantum Machine Learning?](https://www.youtube.com/watch?v=j0DV_75LkFo)
 - [The Radical Map of Topological Quantum Computing](https://www.youtube.com/watch?v=ihZXl33t8So)
@@ -59,6 +58,12 @@
 - [The Map of Quantum Physics](https://www.youtube.com/watch?v=gAFAj3pzvAA)
 - [The interpretations of Quantum Mechanics](https://www.youtube.com/watch?v=gAFAj3pzvAA)
 - [What is Spin? A Geometric explanation](https://www.youtube.com/watch?v=pYeRS5a3HbE)
+
+#### Mathematics of Quantum
+
+- [Imaginary numbers aren't imaginary](https://www.youtube.com/watch?v=pfIGMWxjFTQ)
+- [The Square Root of Negative One](https://www.youtube.com/watch?v=lFT2hwsCMls)
+- [Complex numbers aren't complex](https://www.youtube.com/watch?v=ho3UPqCnzLQ)
 
 -------------------------------
 
