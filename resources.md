@@ -76,7 +76,7 @@
 - [Differences in error suppression, mitigation, and correction](https://www.ibm.com/quantum/blog/quantum-error-suppression-mitigation-correction)
 - [The Deutsch-Jozsa Algorithm: Quantum Algorithms Untangled (2-part series)](https://medium.com/quantum-untangled/quantum-untangled-quantum-computing-deutsch-jozsa-algorithm-guide-untangled-27adf4205913)
 - [The Bernstein-Vazirani Algorithm: Quantum Algorithms Untangled](https://medium.com/quantum-untangled/the-bernstein-vazirani-algorithm-quantum-algorithms-untangled-67e58d4a5096)
-- [Simple quantum computing pipelines(Carlo Lepelaars)](https://carlo.ai/posts/fastcore-quantum)
+- [Simple quantum computing pipelines (Carlo Lepelaars)](https://carlo.ai/posts/fastcore-quantum)
 
 ### Mathematics of Quantum
 
