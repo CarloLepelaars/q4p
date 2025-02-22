@@ -51,6 +51,7 @@
 - [How Quantum Entanglement Works](https://www.youtube.com/watch?v=nxIGNbcVKtA)
 - [Quantum Instruction Set - Computerphile](https://www.youtube.com/watch?v=ZN0lhYU1f5Q)
 - [What is Quantum Machine Learning?](https://www.youtube.com/watch?v=j0DV_75LkFo)
+- [Quantum Computing Explained With MINECRAFT](https://www.youtube.com/watch?v=tr_k_e1UoZw)
 - [Microsoft's Topological Quantum Computer Explained](https://www.youtube.com/watch?v=ihZXl33t8So)
 
 #### Quantum Mechanics
