@@ -60,6 +60,7 @@
 - [The interpretations of Quantum Mechanics](https://www.youtube.com/watch?v=gAFAj3pzvAA)
 - [What is Spin? A Geometric explanation](https://www.youtube.com/watch?v=pYeRS5a3HbE)
 - [The Secret to Quantum Chemistry...is all about ONE Thing!](https://www.youtube.com/watch?v=7_gcpYHqEbY)
+- [How The Basis of All Matter Comes From a "Useless" equation!](https://www.youtube.com/watch?v=CnBrbJVaecg)
 
 #### Mathematics of Quantum
 
