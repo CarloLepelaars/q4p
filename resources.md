@@ -59,6 +59,7 @@
 - [The Map of Quantum Physics](https://www.youtube.com/watch?v=gAFAj3pzvAA)
 - [The interpretations of Quantum Mechanics](https://www.youtube.com/watch?v=gAFAj3pzvAA)
 - [What is Spin? A Geometric explanation](https://www.youtube.com/watch?v=pYeRS5a3HbE)
+- [The Secret to Quantum Chemistry...is all about ONE Thing!](https://www.youtube.com/watch?v=7_gcpYHqEbY)
 
 #### Mathematics of Quantum
 
