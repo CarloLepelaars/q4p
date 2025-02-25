@@ -9,6 +9,7 @@ dependencies = [
     "plotly>=5.24.1",
     "kaleido==0.2.1",
     "skq>=0.1.5",
+    "matplotlib>=3.10.0",
 ]
 
 [project.optional-dependencies]
