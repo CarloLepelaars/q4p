@@ -27,6 +27,7 @@
 - [Quantum Soar](https://www.youtube.com/@quantum-soar)
 - [Looking Glass Universe](https://www.youtube.com/@LookingGlassUniverse)
 - [Dr. Maria Violaris](https://www.youtube.com/@maria_violaris)
+- [Elucyda (Konstantin Lakic)](https://www.youtube.com/@Elucyda/videos)
 
 ### Playlists
 
@@ -38,11 +39,13 @@
 - [Quantum Paradoxes - Maria Violaris](https://www.youtube.com/watch?v=Pz829XZIxXg&list=PLOFEBzvs-VvoQP-EVyd5Di3UrPPc2YKIc&index=1)
 - [The History of Quantum Computing - Interviews](https://www.youtube.com/watch?v=6qD9XElTpCE&list=PLOFEBzvs-VvpNNq221OCZzCZjHadM2NHR&index=1)
 - [The Building Blocks of a Quantum Computer](https://www.youtube.com/watch?v=AqoKpUDchYo&list=PL5jmbd6SJYnPiYlM6pHAm2M3FL40D9otZ)
+- [Elucidating Quantum Algorithms with Konstantin Lakic](https://www.youtube.com/watch?v=tnctwK-9-G4&list=PLl0eQOWl7mnUTNF7KlDJVI3PUgyaXQUHS)
 
 #### Quantum Mechanics
 - [Maths of Quantum Mechanics](https://www.youtube.com/watch?v=3nvbBEzfmE8&list=PL8ER5-vAoiHAWm1UcZsiauUGPlJChgNXC)
 - [Richard P Feynman - Quantum Mechanical View of Reality](https://www.youtube.com/watch?v=72us6pnbEvE&list=PLW_HsOU6YZRkdhFFznHNEfua9NK3deBQy)
 - [Leonard Susskind - The Theoretical Minimum: Quantum Mechanics](https://www.youtube.com/watch?v=iJfw6lDlTuA&list=PL09HhnlAMGuprvZVNjMRrF3MFTH2GoP4J)
+- [Elucidating Quantum Physics with Konstantin Lakic](https://www.youtube.com/watch?v=dj25YjbBWvc&list=PLl0eQOWl7mnWPTQF7lgLWZmb5obvOowVw)
 
 ### Videos
 
