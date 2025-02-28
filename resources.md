@@ -24,6 +24,7 @@
 
 - [Artur Ekert](https://www.youtube.com/@ArturEkert)
 - [Quantum ML (Peter Wittek)](https://www.youtube.com/@quantumml8791)
+- [Quantum Soar](https://www.youtube.com/@quantum-soar)
 - [Looking Glass Universe](https://www.youtube.com/@LookingGlassUniverse)
 - [Dr. Maria Violaris](https://www.youtube.com/@maria_violaris)
 
@@ -53,6 +54,8 @@
 - [What is Quantum Machine Learning?](https://www.youtube.com/watch?v=j0DV_75LkFo)
 - [Quantum Computing Explained With MINECRAFT](https://www.youtube.com/watch?v=tr_k_e1UoZw)
 - [Microsoft's Topological Quantum Computer Explained](https://www.youtube.com/watch?v=ihZXl33t8So)
+- [Quantum Physicist Reacts to Microsoft Majorana 1 Quantum Chip!](https://www.youtube.com/watch?v=jjho5kWg8fw)
+
 
 #### Quantum Mechanics
 
@@ -94,6 +97,7 @@
 - [IBM Quantum Learning Platform](https://learning.quantum.ibm.com)
 - [Quantum Algorithm Zoo](https://quantumalgorithmzoo.org)
 - [PennyLane Quantum Learning Platform](https://pennylane.ai/qml)
+- [Scott Aaronson's Blog (Shtetl-Optimized)](https://scottaaronson.blog)
 
 ### Quantum Mechanics
 
@@ -111,6 +115,7 @@
 - [pyzx (ZX-Calculus)](https://github.com/zxcalc/pyzx)
 - [strawberryfields (Quantum photonics) (XanaduAI)](https://github.com/XanaduAI/strawberryfields)
 - [ProjectQ (compilation between quantum frameworks)](https://github.com/ProjectQ-Framework/ProjectQ)
+- [skq (Scientific Toolkit for Quantum Computing)](https://github.com/CarloLepelaars/skq)
 
 ### Curations
 
