@@ -58,7 +58,8 @@
 - [Quantum Computing Explained With MINECRAFT](https://www.youtube.com/watch?v=tr_k_e1UoZw)
 - [Microsoft's Topological Quantum Computer Explained](https://www.youtube.com/watch?v=ihZXl33t8So)
 - [Quantum Physicist Reacts to Microsoft Majorana 1 Quantum Chip!](https://www.youtube.com/watch?v=jjho5kWg8fw)
-
+- [Quantum Physicist Reacts to Google's "Willow" Quantum Chip!](https://www.youtube.com/watch?v=1Bu86HKcF4c)
+- [Quantum Physicist Reacts to Amazon's Ocelot Quantum Chip!](https://www.youtube.com/watch?v=kmT279rBexk)
 
 #### Quantum Mechanics
 
